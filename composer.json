@@ -1,0 +1,20 @@
+{
+    "name": "wangbuying/ali-oss",
+    "description": "Use composer to manager vendor dependencies.",
+    "require": {
+        "guzzle/common": "~3.9",
+        "guzzle/parser": "~3.9",
+        "guzzle/plugin": "~3.9",
+        "guzzle/stream": "~3.9",
+        "guzzle/http": "~3.9",
+        "symfony/event-dispatcher": "~2.6"
+    },
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "wbylovesun",
+            "email": "sunme87@163.com"
+        }
+    ],
+    "minimum-stability": "RC"
+}
