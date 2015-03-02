@@ -1,5 +1,5 @@
 {
-    "name": "wangbuying/ali-oss",
+    "name": "listong/ali-oss",
     "description": "Use composer to manager vendor dependencies.",
     "require": {
         "php":">=5.3.9",
