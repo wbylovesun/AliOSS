@@ -2,6 +2,7 @@
     "name": "wangbuying/ali-oss",
     "description": "Use composer to manager vendor dependencies.",
     "require": {
+        "php":">=5.3.9",
         "guzzle/common": "~3.9",
         "guzzle/parser": "~3.9",
         "guzzle/plugin": "~3.9",
@@ -10,6 +11,9 @@
         "symfony/event-dispatcher": "~2.6"
     },
     "license": "GNU",
+    "autoload": {
+        "psr-0": { "Aliyun": "src/" }
+    },
     "authors": [
         {
             "name": "wbylovesun",
