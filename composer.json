@@ -3,11 +3,7 @@
     "description": "Use composer to manager vendor dependencies.",
     "require": {
         "php":">=5.3.9",
-        "guzzle/common": "~3.9",
-        "guzzle/parser": "~3.9",
-        "guzzle/plugin": "~3.9",
-        "guzzle/stream": "~3.9",
-        "guzzle/http": "~3.9",
+        "guzzle/guzzle": "~3.9.2",
         "symfony/event-dispatcher": "~2.6"
     },
     "license": "GNU",
